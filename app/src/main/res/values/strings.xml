@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SimpleNotes</string>
+    <string name="warning_text">No blank note!</string>
+    <string name="keep_it_short">Keep It Short.</string>
+    <string name="done">Done</string>
+    <string name="no">No</string>
+    <string name="plus">+</string>
 </resources>
